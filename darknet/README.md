@@ -6,3 +6,5 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
 
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
+
+- Usage ./darknet detector test cfg/voc.data cfg/yolov3-tiny-thumbs.cfg yolov3-tiny-thumbs_4000.weights <test-picture>

@@ -5,33 +5,17 @@ folder input=exp/in_images/ and output=exp/out_images/
 Start processing exp/in_images/.DS_Store
 exp/in_images/.DS_Store: Predicted in 0.000000 milli-seconds.
 End
-Start processing exp/in_images/frame9.jpg
-exp/in_images/frame9.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame8.jpg
-exp/in_images/frame8.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame5.jpg
-exp/in_images/frame5.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame4.jpg
-exp/in_images/frame4.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame6.jpg
-exp/in_images/frame6.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame7.jpg
-exp/in_images/frame7.jpg: Predicted in 0.000000 milli-seconds.
-End
-Start processing exp/in_images/frame3.jpg
-exp/in_images/frame3.jpg: Predicted in 0.000000 milli-seconds.
-End
 Start processing exp/in_images/frame2.jpg
 exp/in_images/frame2.jpg: Predicted in 0.000000 milli-seconds.
 End
 Start processing exp/in_images/frame0.jpg
 exp/in_images/frame0.jpg: Predicted in 0.000000 milli-seconds.
+Thumbs: 33%
 End
 Start processing exp/in_images/frame1.jpg
 exp/in_images/frame1.jpg: Predicted in 0.000000 milli-seconds.
+Thumbs: 46%
+Thumbs: 44%
+Thumbs: 36%
+Thumbs: 34%
 End
