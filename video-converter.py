@@ -27,7 +27,7 @@ def cropVideo(confidence_level,pathIn):
   for line in f:
 
     if(consecutive_thumbs >= 1):
-      ffmpeg_extract_subclip(pathIn, 0, ct, targetname="test.mp4")
+      ffmpeg_extract_subclip(pathIn, 0, ct, targetname="cropped.mp4")
       break
     if("Start" in line):
       frame = True
